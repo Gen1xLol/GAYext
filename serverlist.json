@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "title": "OpenAI (Official)",
+      "url": "https://api.openai.com/v1",
+      "description": "Official OpenAI API endpoint - requires valid API key"
+    },
+    {
+      "title": "Pollinations AI",
+      "url": "https://text.pollinations.ai/openai",
+      "description": "Free AI text generation service with OpenAI-compatible API"
+    },
+    {
+      "title": "SuperSigmaProxy (SSP)",
+      "url": "https://supersigmaproxy.vercel.app/v1",
+      "description": "Proxy that hosts both Pollinations' models and free models from OpenRouter (created by Gen1x)"
+    },
+    {
+      "title": "PenguinAI",
+      "url": "https://api.penguinai.tech/v1",
+      "description": "Proxy originally made for the PenguinAI extension (created by the PenguinAI team), streaming doesn't work for now."
+    },
+    {
+      "title": "derpygamer2142's proxy (OUTDATED",
+      "url": "https://penguinai.derpygamer2142.com/v1",
+      "description": "Proxy originally made for the PenguinAI extension (created by derpygamer2142), VERY outdated, the only models that work are the free ones"
+  ]
+}
